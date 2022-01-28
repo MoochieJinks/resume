@@ -1,0 +1,59 @@
+body {
+	max-width:  1920px;
+	margin-left:  auto;
+	margin-right:  auto;
+	background-color: #d9d9db;
+	font-family: "Times New Roman", Times, serif;
+	line-height: 1.25;
+}
+
+hr {
+	border: 1px solid black;
+}
+
+h2 {
+	line-height: 1;
+	margin-top: .3;
+	font-weight: bold;
+	text-align: center;
+}
+
+h4 {
+	line-height: .65;
+	margin-top: 3px;
+}
+
+h5 {
+	font-style: italic;
+	color: #000000bd;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.gpa {
+	text-align: right;
+	color: black;
+	padding-bottom: 10px;
+	font-weight: bold;
+}
+
+.harrison-profile-picture {
+	margin-top: 20px;
+	border-radius: 8%;
+	height:  175px;
+}
+
+.main-section {
+	padding: 20px;
+}
+
+.school-info {
+	float: left;
+}
+
+.skills-section {
+	display: flex;
+	flex-wrap: wrap;
+}
